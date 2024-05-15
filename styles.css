@@ -228,7 +228,7 @@ footer p {
     }
 
     #skills li {
-        width: calc(51% - 40px);
+        width: calc(50% - 40px);
     }
 
     #about p {
