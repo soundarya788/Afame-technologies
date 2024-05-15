@@ -1,18 +1,17 @@
-/* Resetting default margin and padding */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Basic styling */
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     background-color: #f9f9f9;
     color: #333;
-    overflow-x: hidden; /* Prevent horizontal scrolling */
-}
+    overflow-x: hidden; 
 
 .name {
     font-size: 36px;
@@ -59,7 +58,7 @@ img {
     height: auto;
 }
 
-/* Styling for header */
+
 header {
     background-color: #333;
     color: #fff;
@@ -75,7 +74,7 @@ header p {
     color: #ccc;
 }
 
-/* Styling for about section */
+
 #about {
     background-color: #fff;
     padding: 70px 0;
@@ -96,7 +95,7 @@ header p {
     padding: 0 20px;
 }
 
-/* Styling for skills section */
+
 #skills {
     background-color: #f4f4f4;
     padding: 70px 0;
@@ -130,7 +129,7 @@ header p {
     margin-bottom: 10px;
 }
 
-/* Styling for project section */
+
 #projects {
     background-color: #f9f9f9;
     padding: 70px 0;
@@ -160,7 +159,7 @@ header p {
     line-height: 1.6;
 }
 
-/* Styling for experience section */
+
 #experience {
     background-color: #fff;
     padding: 70px 0;
@@ -190,7 +189,7 @@ header p {
     margin-bottom: 10px;
 }
 
-/* Styling for contact section */
+
 #contact {
     background-color: #333;
     color: #fff;
@@ -202,7 +201,7 @@ header p {
     margin-bottom: 15px;
 }
 
-/* Styling for footer */
+
 footer {
     background-color: #222;
     color: #fff;
